@@ -1,4 +1,4 @@
-# Project Plan
+# Project Plan & Management
 
 ## Goal
 This is an AI-powered image recognition tool. Users can log on or sign up to use this tool. The point of having this tool be account-based is that user data will be stored so that they can return to the tool with their information and past uses saved. This account-based capability will be facilitated by AWS. I will use AWS to create user authentication and cloud-based data storage for this tool. Hopefully, by the end of this project I have learned how to integrate AI functionality in a web-based service, gained useful experience with a cloud-computing service (AWS), and improved my front-end development skills with something like React. 
@@ -16,12 +16,13 @@ d.
 
 ## Development Plan
 1.	Control flow diagram ✅
-2.	Create wireframe to identify features
+2.	Create wireframe to identify features ✅
 3.	Develop front-end from wireframe (use React) (Create pages without AI or cloud functionality)
 5.	Implement functionality with AWS
 6.	Implement AI image recognition functionality (Use AWS Rekognition)
 
-## Resources to Use
+## Resources to Use 
+> Subject to change
 ### Languages
 - React
 - HTML
