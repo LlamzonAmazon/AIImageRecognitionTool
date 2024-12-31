@@ -17,9 +17,8 @@ d.
 ## Development Plan
 1.	Control flow diagram ✅
 2.	Create wireframe to identify features ✅
-3.	Develop front-end from wireframe (use React) (Create pages without AI or cloud functionality)
-5.	Implement functionality with AWS
-6.	Implement AI image recognition functionality (Use AWS Rekognition)
+3.	Understand how to implement AWS features
+4.	
 
 ## Resources to Use 
 > Subject to change
