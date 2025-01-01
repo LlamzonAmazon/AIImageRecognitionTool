@@ -18,7 +18,9 @@ d.
 1.	Control flow diagram ✅
 2.	Create wireframe to identify features ✅
 3.	Understand how to implement AWS features
-4.	
+    i. Amplify
+  	ii. Cognito
+  	
 
 ## Resources to Use 
 > Subject to change
