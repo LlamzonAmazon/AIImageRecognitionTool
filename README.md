@@ -1,6 +1,6 @@
 # AIImageRecognitionTool
 An AI-powered image recognition tool with cloud functionality via AWS.
 
-This is a personal endeavor. I am interested in cloud computing and AI. So, I am going to undertake a personal project that combines these two interests of mine in a seemingly simple manner. Hopefully, by the end of this project I have improved my front-end development skills, gained valuable experience with AWS, and learned how to integrate AI in a web-based service. 
+This is a personal endeavor. I am interested in cloud computing and AI. So, I am going to undertake a personal project that combines these two interests of mine in a seemingly simple manner. Hopefully, by the end of this project I have improved my full-stack development skills, gained valuable experience with AWS, and learned how to integrate AI in a web-based service. 
 
 I do not know much about AWS nor am i very familiar with React. These are two things I have been meaning to gain experience with. So, I am excited for what I will learn during this project.
