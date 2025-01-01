@@ -15,12 +15,21 @@ c.	User uploads image – AI will begin processing the image, and then create a 
 d.	
 
 ## Development Plan
-1.	Control flow diagram ✅
-2.	Create wireframe to identify features ✅
-3.	Understand how to implement AWS features
-    i. Amplify
-  	ii. Cognito
-  	
+<ol>
+    <li>Control flow diagram ✅</li>
+    <li>Create wireframe to identify features ✅</li>
+    <li>Understand how to implement AWS features</li>
+    <ul>
+        <li>Goal is to understand the order in which development should occur</li>
+    </ul>
+    <ol>
+        <li>Amplify</li>
+        <li>Cognito</li>
+        <li>Rekognition</li>
+        <li>S3</li>
+        <li>Lambda</li>
+    </ol>
+</ol>
 
 ## Resources to Use 
 > Subject to change
